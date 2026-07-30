@@ -9,7 +9,8 @@ I am a cybersecurity analyst aiming long-term to be a DevSecOps Engineer.
 |--------|--------------------|
 |Network Monitoring |
 |Case Analysis |
-|Network Forensics|
+|Network Forensics |
+|Network Configuration | README.md
 
 ## Tools
 - WireShark
@@ -24,3 +25,4 @@ I am a cybersecurity analyst aiming long-term to be a DevSecOps Engineer.
 Tech Sphere Academy
 
 ## Projects
+Network Detection and Configuration
