@@ -10,7 +10,7 @@ I am a cybersecurity analyst aiming long-term to be a DevSecOps Engineer.
 |Network Monitoring |
 |Case Analysis |
 |Network Forensics |
-|Network Configuration | README.md
+|Network Configuration | [Network Design and Configuration](https://github.com/Loli-V/Network_Design_and_Configuration)
 
 ## Tools
 - WireShark
@@ -25,4 +25,4 @@ I am a cybersecurity analyst aiming long-term to be a DevSecOps Engineer.
 Tech Sphere Academy
 
 ## Projects
-Network Detection and Configuration
+[Network Design and Configuration](https://github.com/Loli-V/Network_Design_and_Configuration)
