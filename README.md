@@ -11,7 +11,7 @@ I am a cybersecurity analyst aiming long-term to be a DevSecOps Engineer.
 |Case Analysis | [Incident Response](https://github.com/Loli-V/Incident_Response/tree/main) |
 |Network Forensics | [JetBrains-Lab](https://github.com/Loli-V/JetBrains-Lab/tree/main) |
 |Network Configuration | [Network Design and Configuration](https://github.com/Loli-V/Network_Design_and_Configuration) |
-|Attacks |
+|Attacks | [Simulated Network Attack Incident](https://github.com/Loli-V/Simulated_Network_Attack_Incident) |
 
 ## Tools
 - WireShark
@@ -29,4 +29,4 @@ Tech Sphere Academy
 - [Network Design and Configuration](https://github.com/Loli-V/Network_Design_and_Configuration)
 - [Incident Response](https://github.com/Loli-V/Incident_Response/tree/main)
 - [JetBrains-Lab](https://github.com/Loli-V/JetBrains-Lab/tree/main)
-- Simulated Network Attack Incident
+- [Simulated Network Attack Incident](https://github.com/Loli-V/Simulated_Network_Attack_Incident)
