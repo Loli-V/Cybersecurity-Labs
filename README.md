@@ -29,7 +29,7 @@ I am a cybersecurity analyst aiming long-term to be a DevSecOps Engineer.
 - AWS
 
 ## Certifications
-Tech Sphere Academy
+[Tech Sphere Academy](https://drive.google.com/file/d/1JhTBHnxFQtp0VHrXH_wa0kEnvGhjh1hK/view?usp=drivesdk)
 
 ## Projects
 - [Network Design and Configuration](https://github.com/Loli-V/Network_Design_and_Configuration)
